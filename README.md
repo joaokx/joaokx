@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaokx
 - 👀 I’m interested in ...desenvolvimento front end e análise De dados 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Power BI e python para análise de dados 
+- 💞️ I’m looking to collaborate on ... com projetos de dados,criação de Dashboards,site web e etc
 - 📫 How to reach me ... joaopedrobsi10@gmail.com
 
 <!---
